@@ -48,4 +48,4 @@ Abaixo está um exemplo de entrada de dados e o resultado esperado:
 
 ## Autor
 
-Kaio Vitor - [GitHub](https://github.com/Kaio-0708)
+Kaio Vitor  [GitHub](https://github.com/Kaio-0708)
